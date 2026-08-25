@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my projects, skills, and background as a final-year BSc IT (Software Engineering) student at Eduvos.
 
 ## 🔗 Live Site
-https://nqobile-21.github.io/portfolio/
+[https://nqobile-21.github.io/portfolio/](https://nqobile-21.github.io/Nqobile-R.-Mahlangu--Portfolio/)
 
 ## 🛠️ Built With
 - HTML5
